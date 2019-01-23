@@ -75,6 +75,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-next
 
+# leancloud_counter_security
+leancloud_counter_security:
+  enable_sync: true
+  app_id: zNjYtu0g3RQvNhb4qmAB55Y1-gzGzoHsz
+  app_key: C9Qf29JIz7Quo4jUIB3CP8DJ
+  username:
+  password:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
